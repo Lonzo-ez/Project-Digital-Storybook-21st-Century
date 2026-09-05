@@ -7,17 +7,17 @@ document.addEventListener("DOMContentLoaded", () => {
     1: {
         title: "Act I",
         scenes: [
-            {img: "./ResourceImages/A1S1.png", speaker: "Narrator", text: "Museums are truly a special place, don’t you agree, reader? Well, INTERN surely would say the same. With her love of art and history, museums are in no doubt a magical place for her. Filled with miraculous artworks with a story, carefully crafted works with meaning, and astonishing photographs with a point to fight for.", audio: "./ResourceAudio/A1S1.mp3" },
-            { img: "./ResourceImages/A1S2.png", speaker: "Intern", text: "I’ve always loved museums, but stepping into one with a new objective of sharing my love for art to the people around is a surreal experience! I’m beyond nervous, but also.. really excited!", audio: "./ResourceAudio/A1S2.mp3"  },
-            { img: "./ResourceImages/A1S3.png", speaker: "Narrator", text: "As INTERN wanders around with a new beginning of her internship at [MUSEUM NAME], she spots a rather unique looking artwork. One she has not yet seen before, and trust me, she’s seen a lot.", audio: "./ResourceAudio/A1S3.mp3"  },
-            { img: "./ResourceImages/A1S4.png", speaker: "Museum Worker", text: " I see you’ve spotted my favourite piece.", audio: "./ResourceAudio/A1S4.mp3" }, 
-            { img: "./ResourceImages/A1S5.png", speaker: "Intern", text: "Quite unique, no? It’s the first time I’ve seen it. It’s almost as if the first glance I took, the painting was moving.", audio: "./ResourceAudio/A1S5.mp3"  },
-            { img: "./ResourceImages/A1S5.5.png", speaker: "Meseum Worker", text: "Right, it’s only been put up just recently.", audio: "./ResourceAudio/A1S6.mp3" }, 
-            { img: "./ResourceImages/A1S6.png", speaker: "Intern", text: "Why so? It seems too pretty to just be put away! *jokingly*", audio: "./ResourceAudio/A1S7.mp3" },
+            {img: "./ResourceImages/A1S1.png", speaker: "Narrator", text: "Museums are truly a special place, don’t you agree, reader? Well, Abi surely would say the same. With her love of art and history, museums are in no doubt a magical place for her. Filled with miraculous artworks with a story, carefully crafted works with meaning, and astonishing photographs with a point to fight for.", audio: "./ResourceAudio/A1S1.mp3" },
+            { img: "./ResourceImages/A1S2.png", speaker: "Abi", text: "I’ve always loved museums, but stepping into one with a new objective of sharing my love for art to the people around is a surreal experience! I’m beyond nervous, but also.. really excited!", audio: "./ResourceAudio/A1S2.mp3"  },
+            { img: "./ResourceImages/A1S3.png", speaker: "Narrator", text: "As Abi wanders around with a new beginning of her internship at Ravenmore, she spots a rather unique looking artwork. One she has not yet seen before, and trust me, she’s seen a lot.", audio: "./ResourceAudio/A1S3.mp3"  },
+            { img: "./ResourceImages/A1S4.png", speaker: "Ritz", text: " I see you’ve spotted my favourite piece.", audio: "./ResourceAudio/A1S4.mp3" }, 
+            { img: "./ResourceImages/A1S5.png", speaker: "Abi", text: "Quite unique, no? It’s the first time I’ve seen it. It’s almost as if the first glance I took, the painting was moving.", audio: "./ResourceAudio/A1S5.mp3"  },
+            { img: "./ResourceImages/A1S5.5.png", speaker: "Ritz", text: "Right, it’s only been put up just recently.", audio: "./ResourceAudio/A1S6.mp3" }, 
+            { img: "./ResourceImages/A1S6.png", speaker: "Abi", text: "Why so? It seems too pretty to just be put away! *jokingly*", audio: "./ResourceAudio/A1S7.mp3" },
             { img: "./ResourceImages/A1S7.png", speaker: "Museum Worker", text: "I agree! But it’s been put away due to the privacy of the artist. Only now has it been granted permission to be displayed. Personally? I think it’s beautiful.", audio: "./ResourceAudio/A1S8.mp3" },
-            { img: "./ResourceImages/A1S8.png", speaker: "Intern", text: "It really is. Did the artist give a description or an explanation to their work?", audio: "./ResourceAudio/A1S9.mp3" },
-            { img: "./ResourceImages/A1S9.png", speaker: "Meseum Worker", text: "You must have not heard of the story of Time’s Forbidden Lovers! Come, I love telling this story.", audio: "./ResourceAudio/A1S10.mp3" },
-            { img: "./ResourceImages/A1S10.png", speaker: "Narrator", text: "With an excited and anticipating heart for new knowledge, INTERN sat down next to the fella with a story to tell. Now, reader, I’d advise you to do the same. Sit back, relax, and grab a snack while you’re at it, as this is going to be a rollercoaster ride in time.", audio: "./ResourceAudio/A1S11.mp3" },
+            { img: "./ResourceImages/A1S8.png", speaker: "Abi", text: "It really is. Did the artist give a description or an explanation to their work?", audio: "./ResourceAudio/A1S9.mp3" },
+            { img: "./ResourceImages/A1S9.png", speaker: "Ritz", text: "You must have not heard of the story of Time’s Forbidden Lovers! Come, I love telling this story.", audio: "./ResourceAudio/A1S10.mp3" },
+            { img: "./ResourceImages/A1S10.png", speaker: "Narrator", text: "With an excited and anticipating heart for new knowledge, Abi sat down next to the fella with a story to tell. Now, reader, I’d advise you to do the same. Sit back, relax, and grab a snack while you’re at it, as this is going to be a rollercoaster ride in time.", audio: "./ResourceAudio/A1S11.mp3" },
             // ... up to 9 scenes
         ]
     },
